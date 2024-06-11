@@ -61,6 +61,18 @@ Date,Open,High,Low,Close,Adj Close,Volume
 2023-01-02,106,115,95,110,110,1500000
 ...
 ```
+### Instructions on How to Download CSV from Yahoo Finance
+
+1. Go to the [Yahoo Finance](https://finance.yahoo.com/) website.
+2. In the search bar at the top of the page, enter the ticker symbol for the stock or ETF you are interested in (e.g., `AAPL` for Apple Inc.).
+3. Press `Enter` to go to the stock or ETF's page.
+4. Click on the "Historical Data" tab.
+5. Set the "Time Period" to the desired range (e.g., `1 Year`, `5 Years`).
+6. Set the "Show" option to `Historical Prices`.
+7. Set the "Frequency" option to `Daily`.
+8. Click the "Apply" button.
+9. Click the "Download" button to download the historical data as a CSV file.
+
 ## Explanation of Technical Indicators
 
 - **Simple Moving Average (SMA)**: The average price over a specified period. The 50-day SMA and 200-day SMA are commonly used to identify trends.
