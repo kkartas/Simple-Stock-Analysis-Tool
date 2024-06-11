@@ -60,6 +60,7 @@ Date,Open,High,Low,Close,Adj Close,Volume
 2023-01-01,100,110,90,105,105,1000000
 2023-01-02,106,115,95,110,110,1500000
 ...
+```
 ## Explanation of Technical Indicators
 
 - **Simple Moving Average (SMA)**: The average price over a specified period. The 50-day SMA and 200-day SMA are commonly used to identify trends.
